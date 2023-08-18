@@ -1,0 +1,36 @@
+.repo-item {
+  width: 200px;
+  padding: 20px;
+  margin: 8px;
+  font-family: 'Roboto';
+  background-color: #f8f8ff;
+  border-radius: 12px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.name {
+  color: #e73959;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 6px;
+  margin-top: 10px;
+}
+
+.text {
+  color: #1e293b;
+  font-size: 12px;
+}
